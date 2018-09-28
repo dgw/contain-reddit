@@ -2,12 +2,12 @@
 const REDDIT_CONTAINER_NAME = "Reddit";
 const REDDIT_CONTAINER_COLOR = "orange";
 const REDDIT_CONTAINER_ICON = "briefcase";
-let REDDIT_DOMAINS = [
-  "reddit.com",  "redditblog.com", "redditmedia.com", "redditstatic.com"
-];
 
+let REDDIT_DOMAINS = ["reddit.com"];
 
-REDDIT_DOMAINS = REDDIT_DOMAINS;
+let REDDIT_EXTRAS = ["redditblog.com", "redditmedia.com", "redditstatic.com"];
+
+REDDIT_DOMAINS = REDDIT_DOMAINS.concat(REDDIT_EXTRAS);
 
 
 

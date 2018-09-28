@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Reddit Container",
-    "version": "1",
+    "version": "1.0.0",
 
     "description": "Reddit Container isolates your Reddit activity from the rest of your web activity in order to prevent Reddit from tracking you outside of the Reddit website via third party cookies.",
 
@@ -17,7 +17,7 @@
       }
     },
 
-    "homepage_url": "none",
+    "homepage_url": "https://github.com/SleepingPanda/contain-reddit",
 
     "permissions": [
         "<all_urls>",
