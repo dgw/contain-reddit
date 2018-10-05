@@ -5,7 +5,7 @@ const REDDIT_CONTAINER_ICON = "briefcase";
 
 let REDDIT_DOMAINS = ["reddit.com"];
 
-let REDDIT_EXTRAS = ["redditblog.com", "redditmedia.com", "redditstatic.com"];
+let REDDIT_EXTRAS = ["redditblog.com", "redditmedia.com", "redditstatic.com", "redd.it"];
 
 REDDIT_DOMAINS = REDDIT_DOMAINS.concat(REDDIT_EXTRAS);
 
