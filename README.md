@@ -1,7 +1,7 @@
-# Reddit Container
+# contain-reddit
 
 **Prevent Reddit from tracking your visits to other websites**
 
-This is a fork of [Facebook Container](https://github.com/mozilla/contain-facebook)
+contain-reddit is a fork of [Facebook Container](https://github.com/mozilla/contain-facebook)
 
-Reddit Container is an add-on you can install on Firefox to prevent Reddit from tracking your activity on other websites, so you can continue to use Reddit while protecting your privacy.
+contain-reddit is a Mozilla Firefox extension to help prevent Reddit from tracking your activity across the web.
